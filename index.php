@@ -3,4 +3,4 @@
     echo 'Hola {$nombre}';
 ?>
 <h1>Bienvenido</h1>
-<h2><?php echo $nombre ?></h2>
+<h2><?php echo $nombre.'Hola' ?></h2>
