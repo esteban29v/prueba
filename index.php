@@ -2,4 +2,5 @@
     $nombre = 'Juan Esteban';
     echo 'Hola {$nombre}';
 ?>
-<h1>Título</h1>
+<h1>Bienvenido</h1>
+<h2><?php echo $nombre ?></h2>
